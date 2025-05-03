@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 5rem;
+    color: cadetblue;
+    text-align: center;
+}
+button{
+    color: blueviolet;
+    height: 100px;
+    width: 150px;
+    margin-top: 8rem;
+}
+p{
+    font-size: 1.5rem;
+    color:cadetblue;
+    padding: 2rem;
+    padding-top: 0;
+}
